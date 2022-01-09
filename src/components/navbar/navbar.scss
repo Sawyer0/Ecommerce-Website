@@ -25,25 +25,28 @@
     .left {
       display: flex;
       align-items: center;
+
       img {
         height: 25px;
         margin-right: 40px;
+        margin-left: 40px;
       }
+
       span {
         margin-right: 20px;
         cursor: pointer;
       }
     }
 
-   
-
     .right {
       display: flex;
       align-items: center;
+
       .icon{
           margin: 0px 15px; 
           cursor: pointer;
       }
+
       img {
         width: 30px;
         height: 30px;
